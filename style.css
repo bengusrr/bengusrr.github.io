@@ -13,6 +13,13 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  font-size: 60px;
+  font-weight: 600;
+  letter-spacing: -.06em;
+  text-align: center;
+}
+
 span {
   color: #fff;
   display: block;
